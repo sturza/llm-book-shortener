@@ -16,6 +16,8 @@ I wrote this to read significantly more and it worked.
 
 test@MacBook-Pro llm-book-shortener % wc -c waldenrewrite.txt
   231074 waldenrewrite.txt
+
+
 test@MacBook-Pro llm-book-shortener % wc -c waldenprogress.txt
   636980 waldenprogress.txt
 
