@@ -15,11 +15,13 @@ I wrote this to read significantly more and it worked.
 ## Results
 
 test@MacBook-Pro llm-book-shortener % wc -c waldenrewrite.txt
-  231074 waldenrewrite.txt
+
+231074 waldenrewrite.txt
 
 
 test@MacBook-Pro llm-book-shortener % wc -c waldenprogress.txt
-  636980 waldenprogress.txt
+
+636980 waldenprogress.txt
 
 The rewritten version is approximately ~36% from the original. That's a significant reduction.
 
